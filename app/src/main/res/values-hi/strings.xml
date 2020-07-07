@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भाषा परिवर्तक</string>
+    <string-array name="array_name">
+        <item>भाषा का चयन करें</item>
+        <item>अंग्रेज़ी</item>
+        <item>हिन्दी</item>
+        <item>फ्रेंच</item>
+    </string-array>
+    <string name="submit">प्रस्तुत</string>
+    <string name="settings">समायोजन</string>
+    <string name="message">नमस्ते दुनिया</string>
+    <string name="set_the_language_as_default">भाषा को डिफ़ॉल्ट के रूप में सेट करें</string>
+    <string name="select_lang">कृपया भाषा का चयन करें</string>
+    <string name="select_lang_success">सफ़लतापूर्वक परिवर्तित भाषा!</string>
+</resources>
